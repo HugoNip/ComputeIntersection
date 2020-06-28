@@ -1,8 +1,16 @@
 # Introduction
 
 
+# Distance of a point and a line
+## 2D space, find the closest point to a line
+![Pic_segment.gif](https://github.com/HugoNip/GraphBasic/blob/master/figure/Pic_segment.gif)
 
+## 2D space, calculate the distance
+![Pic_dparametric.gif](https://github.com/HugoNip/GraphBasic/blob/master/figure/Pic_dparametric.gif)
 
+# Distance of a point and a plane
+## 3D space, calculate the distance
+![Pic_dplane.gif](https://github.com/HugoNip/GraphBasic/blob/master/figure/Pic_dplane.gif)
 
 # Intersections of lines and planes
 ## 2D space, intersection of two segments
