@@ -11,6 +11,6 @@
 //            PL = a  plane with point V0 and normal n
 //    Output: *B = base point on PL of perpendicular from P
 //    Return: the distance from P to the plane PL
-float dist_Point_to_Plane( Point P, Plane PL, Point B);
+float dist_Point_to_Plane( Point P, Plane PL, Point &B);
 
 #endif //POINT2PLANE_H

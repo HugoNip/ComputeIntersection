@@ -90,8 +90,9 @@ struct Segment{
 
 struct Plane{
     Point V0;
-    Vector n;
+    Vector n; // normal
 };
+
 #endif //COMMONINCLULDE_H
 
 /** A 3D vector: a direction or location in 3D space.

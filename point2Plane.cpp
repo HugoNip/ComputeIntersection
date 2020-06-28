@@ -4,7 +4,7 @@
 
 #include "point2Plane.h"
 
-float dist_Point_to_Plane( Point P, Plane PL, Point B)
+float dist_Point_to_Plane( Point P, Plane PL, Point &B)
 {
     float sb, sn, sd;
 
